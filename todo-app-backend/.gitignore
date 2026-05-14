@@ -1,0 +1,50 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build / Cache
+dist/
+build/
+coverage/
+.nyc_output/
+.cache/
+
+# Docker
+docker-compose.override.yml
+
+# Testing artifacts
+__pycache__/
+*.pyc
+*.pyo
+tests_api/
+
+# Temp files
+tmp/
+temp/
+
+# Misc
+*.pid
+*.seed
+*.lock

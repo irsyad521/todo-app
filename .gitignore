@@ -1,0 +1,17 @@
+# Global
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# APK / build artifacts
+*.apk
+
+# Logs
+*.log
+
+# Env
+.env

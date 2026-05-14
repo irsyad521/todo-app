@@ -1,0 +1,55 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+
+# Flutter plugins
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# FVM
+.fvm/
+.fvm/flutter_sdk
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated
+.metadata
+
+# Android
+android/.gradle/
+android/app/build/
+
+# iOS
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/.symlinks/
+
+# macOS
+macos/Pods/
+
+# Linux / Windows build
+linux/flutter/ephemeral/
+windows/flutter/ephemeral/
+
+# Web
+web/.dart_tool/
+
+# Test / coverage
+coverage/
+
+# Lock file (optional)
+# keep if app, ignore if library
+# pubspec.lock
